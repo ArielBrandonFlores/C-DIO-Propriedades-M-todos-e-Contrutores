@@ -1,0 +1,14 @@
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\bin\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.exe
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\bin\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.deps.json
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\bin\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.runtimeconfig.json
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\bin\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.dll
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\bin\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.pdb
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.AssemblyInfoInputs.cache
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.AssemblyInfo.cs
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.csproj.CoreCompileInputs.cache
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.dll
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\refint\C#DIO-Propriedades,Métodos e Contrutores.dll
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.pdb
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.genruntimeconfig.cache
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\ref\C#DIO-Propriedades,Métodos e Contrutores.dll
