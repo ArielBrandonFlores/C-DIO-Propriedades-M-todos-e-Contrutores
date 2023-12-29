@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#DIO-Propriedades,Métodos e Contrutores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce676248965d960e9a9178d31fd62a1d0642b9a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#DIO-Propriedades,Métodos e Contrutores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#DIO-Propriedades,Métodos e Contrutores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
