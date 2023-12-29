@@ -12,3 +12,4 @@ C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contr
 C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.pdb
 C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.genruntimeconfig.cache
 C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\ref\C#DIO-Propriedades,Métodos e Contrutores.dll
+C:\Users\karen\Documents\PastaDev\VSCode\Dio\C#DIO-Propriedades,Métodos e Contrutores\obj\Debug\net8.0\C#DIO-Propriedades,Métodos e Contrutores.sourcelink.json
